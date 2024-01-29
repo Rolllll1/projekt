@@ -1,0 +1,49 @@
+ body {
+     font-family: Arial, sans-serif;
+     background-color: #f4f4f4;
+     margin: 0;
+     padding: 0;
+     box-sizing: border-box;
+ }
+ 
+ header {
+     background-image: url(img/_130355875_gettyimages-1472123000.jpg);
+     background-position: center;
+     color: rgb(255, 255, 255);
+     text-align: center;
+     padding-top: 40px;
+     padding-bottom: 40px;
+ }
+
+ section {
+     margin: 20px;
+ }
+
+ h2 {
+     color: #333;
+ }
+
+ p {
+     line-height: 1.6;
+     color: #666;
+ }
+
+ .Kraini {
+     color: rgb(255, 255, 255)
+ }
+
+ div {
+     padding-top: 10px;
+     padding-bottom: 10px;
+     margin-left: 300px;
+     margin-right: 300px;
+     background-color: #333;
+ }
+
+ h1 {
+     margin-top: 0px;
+ }
+ li {
+     line-height: 1.6;
+     color: #666;
+ }
